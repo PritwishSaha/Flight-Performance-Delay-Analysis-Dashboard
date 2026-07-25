@@ -1,7 +1,7 @@
 # ✈️ Flight Performance & Delay Analysis Dashboard
 
 <p align="center">
-  <img src="Screenshot_2026-07-21_211058.png" alt="Flight Performance & Delay Analysis Dashboard" width="100%">
+  <img src="Screenshot 2026-07-21 211058.png" alt="Flight Performance & Delay Analysis Dashboard" width="100%">
 </p>
 
 ## 📌 Project Overview
